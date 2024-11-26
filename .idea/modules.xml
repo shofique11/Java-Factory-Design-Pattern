@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DocumentFactory/DocumentFactory.iml" filepath="$PROJECT_DIR$/DocumentFactory/DocumentFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FactoryDesignPattern.iml" filepath="$PROJECT_DIR$/.idea/FactoryDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransportFactory/TransportFactory.iml" filepath="$PROJECT_DIR$/TransportFactory/TransportFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VehicleFactory/VehicleFactory.iml" filepath="$PROJECT_DIR$/VehicleFactory/VehicleFactory.iml" />
+    </modules>
+  </component>
+</project>
